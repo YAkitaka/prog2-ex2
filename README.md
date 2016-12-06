@@ -1,6 +1,5 @@
 #プログラミング２の演習２の練習中
-//コメントアウト
-//ppppp
+//コメントアウト1
 
 
 public class Test{
@@ -10,4 +9,4 @@ public class Test{
 
     }
 }
-い
+あアアア
