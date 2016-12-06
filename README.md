@@ -7,5 +7,4 @@ public class Test{
 
     }
 }
-
-take2
+いいい
