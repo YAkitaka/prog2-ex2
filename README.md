@@ -4,6 +4,6 @@
 
 public class Test{
     public static void mani(String[] args){
-    
+
     }
 }
